@@ -3,8 +3,7 @@ scikit-learn
 pandas
 numpy
 joblib
-torch
-torchvision
-ultralytics
-PIL
-time
+torch==2.2.2
+torchvision==0.17.2
+ultralytics==8.0.214
+pillow
